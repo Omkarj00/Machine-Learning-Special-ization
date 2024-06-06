@@ -1,2 +1,2 @@
-# Machine-Learning-Special-ization
-Machine Learning Specialization By Andrew N G
+# Machine-Learning-Specialization
+Machine Learning Specialization By Andrew N G , 
